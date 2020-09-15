@@ -1,0 +1,21 @@
+---
+title: "Final Project Notebook"
+output: html_notebook
+---
+This Notebook is the final project streamline to read/update datasets and not alter workspace images
+Basic Rules
+- Don't overwrite team member's work and push to master branch
+- Commit your work and create pull requests before merging with master branch
+- Comment your work for understanding of teammates
+- Any data processing/visualisation should be done on personal notebooks
+
+Insert R chunks and rename r -> python to use python chunks for loading data and librariess
+```{python}
+
+```
+
+```{r}
+
+```
+
+
