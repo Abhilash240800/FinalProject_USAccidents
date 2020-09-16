@@ -3,3 +3,6 @@
 .RData
 .Ruserdata
 .Datasets
+.ipynb_checkpoints/.ipynb-checkpoint
+.ipynb_checkpoints/Data_preprocessing-checkpoint.ipynb
+US_Accidents_June20.xls
