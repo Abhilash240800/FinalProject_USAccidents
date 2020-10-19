@@ -39,3 +39,4 @@ Jupyter Notebooks/Datasets/final/preproccesed_outliers_3353_col_7_threshold_1_.f
 Jupyter Notebooks/Datasets/final/preproccesed_outliers_3353_col_7_threshold_1_.csv
 Jupyter Notebooks/Datasets/merged_data_v1.feather
 Jupyter Notebooks/Datasets/Final_model_datasets.rar
+*.feather
